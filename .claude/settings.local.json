@@ -19,7 +19,8 @@
       "Bash(find:*)",
       "Bash(ls:*)",
       "Bash(mv:*)",
-      "Bash(git init:*)"
+      "Bash(git init:*)",
+      "Bash(gh:*)"
     ],
     "deny": []
   }

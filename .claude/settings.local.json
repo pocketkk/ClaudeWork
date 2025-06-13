@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(systemctl list-units:*)",
+      "Bash(cat:*)",
+      "Bash(ss:*)",
+      "Bash(systemctl status:*)",
+      "Bash(snap list)",
+      "Bash(last:*)",
+      "Bash(dpkg:*)",
+      "Bash(apt list:*)",
+      "Bash(systemctl list-unit-files:*)",
+      "Bash(fail2ban-client:*)",
+      "Bash(systemctl:*)",
+      "Bash(mkdir:*)",
+      "Bash(cp:*)",
+      "Bash(gnome-screenshot:*)",
+      "Bash(grep:*)",
+      "Bash(find:*)",
+      "Bash(ls:*)",
+      "Bash(mv:*)",
+      "Bash(git init:*)"
+    ],
+    "deny": []
+  }
+}
